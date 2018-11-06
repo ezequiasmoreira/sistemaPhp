@@ -17,5 +17,5 @@ class Cargo extends Model
         'usuario_id'
     ];
     protected $table = 'cargo';
-    /*testando o commit*/
+    
 }
